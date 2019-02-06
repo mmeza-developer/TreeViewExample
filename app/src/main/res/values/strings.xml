@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TreeViewExample</string>
+    <!-- Menú -->
+    <string name="menu_crear_sub_elemento">Crear sub-categoría</string>
+    <string name="menu_editar_sub_elemento">Editar</string>
+    <string name="menu_eliminar_sub_elemento">Eliminar</string>
+    <string name="boton_editar">Agregar</string>
+    <string name="boton_agregar">Editar</string>
+    <string name="boton_cancelar">Cancelar</string>
+
+</resources>

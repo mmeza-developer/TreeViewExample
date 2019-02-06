@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+    <item
+        android:id="@+id/add_menu"
+        android:title="@string/menu_crear_sub_elemento"></item>
+
+    <item
+        android:id="@+id/edit_menu"
+        android:title="@string/menu_editar_sub_elemento"></item>
+    <item
+        android:id="@+id/delete_menu"
+        android:title="@string/menu_eliminar_sub_elemento"></item>
+</menu>
